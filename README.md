@@ -1,1 +1,0 @@
-# stencil-interact-upgrade-test
